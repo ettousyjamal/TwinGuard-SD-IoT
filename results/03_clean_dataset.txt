@@ -1,0 +1,34 @@
+Cleaning protocol: D2 restricted to timestamp >= 2025-07-01 UTC; D1, D3 unchanged.
+
+== D1: raw rows=177092 kept=177092 measured=143571 missing=18.9% timestamps=13931 measured duration=58.1 h
+   labels 0/1/2 among measured: 97.77 / 2.17 / 0.06 %
+   RTT  p50=1.20 p95=2.92 p99=7.00 ms
+   jitter p50=0.12 p95=0.36 ms;  loss p50=0.00 p95=0.00 p99=1.52 %  mean=0.052%
+   share of measured records violating an SLA (RTT > R or loss > L), in %:
+        L=0.5%  L=1.0%  L=2.0%
+   R= 5.0 ms   2.33    2.02    1.71
+   R=10.0 ms   2.02    1.70    1.36
+   R=15.0 ms   1.95    1.61    1.26
+== D2: raw rows=157594 kept=45904 measured=36440 missing=20.6% timestamps=3632 measured duration=15.1 h
+   labels 0/1/2 among measured: 71.99 / 27.09 / 0.93 %
+   RTT  p50=1.89 p95=31.25 p99=37.11 ms
+   jitter p50=0.20 p95=2.74 ms;  loss p50=0.00 p95=1.21 p99=2.03 %  mean=0.221%
+   share of measured records violating an SLA (RTT > R or loss > L), in %:
+        L=0.5%  L=1.0%  L=2.0%
+   R= 5.0 ms  36.19   36.00   35.83
+   R=10.0 ms  32.59   31.54   31.32
+   R=15.0 ms  23.04   19.28   18.88
+== D3: raw rows=167885 kept=167885 measured=130820 missing=22.1% timestamps=13200 measured duration=55.0 h
+   labels 0/1/2 among measured: 94.69 / 5.23 / 0.08 %
+   RTT  p50=1.49 p95=6.65 p99=33.36 ms
+   jitter p50=0.15 p95=0.41 ms;  loss p50=0.00 p95=0.03 p99=1.83 %  mean=0.062%
+   share of measured records violating an SLA (RTT > R or loss > L), in %:
+        L=0.5%  L=1.0%  L=2.0%
+   R= 5.0 ms   7.13    6.73    6.37
+   R=10.0 ms   5.64    5.21    4.81
+   R=15.0 ms   4.92    4.45    4.04
+
+== Table 3 (cleaned)
+D1: records=177092 measured_duration=58.1h missing=18.9% labels=97.8/2.17/0.06% RTT50/jit50=1.20/0.12 ms RTT95=2.92 ms loss99=1.52%
+D2: records=45904 measured_duration=15.1h missing=20.6% labels=72.0/27.09/0.93% RTT50/jit50=1.89/0.20 ms RTT95=31.25 ms loss99=2.03%
+D3: records=167885 measured_duration=55.0h missing=22.1% labels=94.7/5.23/0.08% RTT50/jit50=1.49/0.15 ms RTT95=6.65 ms loss99=1.83%

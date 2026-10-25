@@ -1,0 +1,11 @@
+# Tested with Python 3.13 (training on Kaggle: torch 2.11 + CUDA 12.8, numpy 2.1, pandas 2.3)
+# and Python 3.14 (CPU: torch 2.14, numpy 2.5, pandas 3.0, matplotlib 3.11, scipy 1.18).
+numpy>=2.1
+pandas>=2.3
+scipy>=1.13
+networkx>=3.0
+matplotlib>=3.9
+torch>=2.5
+psutil>=5.9
+nbformat>=5.9
+jupyter

@@ -1,0 +1,79 @@
+{
+ "best": {
+  "LinkGRU": {
+   "hidden": 32,
+   "layers": 2,
+   "heads": 2,
+   "gru": 64,
+   "gru_layers": 1,
+   "dropout": 0.0,
+   "lr": 0.001,
+   "batch": 64,
+   "wd": 1e-05
+  },
+  "GNNTwin": {
+   "hidden": 64,
+   "layers": 3,
+   "heads": 2,
+   "gru": 64,
+   "gru_layers": 1,
+   "dropout": 0.1,
+   "lr": 0.0003,
+   "batch": 128,
+   "wd": 1e-05
+  }
+ },
+ "fixed": {
+  "max_epochs": 150,
+  "patience": 15,
+  "lr_patience": 5,
+  "lr_factor": 0.5,
+  "clip": 1.0
+ },
+ "search_space": {
+  "hidden": [
+   32,
+   64,
+   96
+  ],
+  "layers": [
+   1,
+   2,
+   3
+  ],
+  "heads": [
+   2,
+   4
+  ],
+  "gru": [
+   64,
+   128
+  ],
+  "gru_layers": [
+   1,
+   2
+  ],
+  "dropout": [
+   0.0,
+   0.1,
+   0.2
+  ],
+  "lr": [
+   0.0003,
+   0.001,
+   0.002,
+   0.003
+  ],
+  "batch": [
+   64,
+   128,
+   256
+  ],
+  "wd": [
+   1e-06,
+   1e-05,
+   0.0001
+  ]
+ },
+ "n_trials": 16
+}

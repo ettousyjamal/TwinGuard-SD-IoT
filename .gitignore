@@ -1,0 +1,19 @@
+# data: downloaded by code/00_download_data.py and created by the notebooks
+data/zenodo_17255307/
+data/processed/
+# large intermediate results recreated by notebooks/TwinGuard_experiments.ipynb
+results/preds/
+results/models/tuning/
+results_smoke/
+twinguard_outputs.zip
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# simulator training windows: recreated by code/06_sim_data.py (calibration windows and normalization are versioned)
+data/sim*/train.npz
+data/sim*/val.npz
+kaggle/

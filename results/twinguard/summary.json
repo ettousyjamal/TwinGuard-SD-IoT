@@ -1,0 +1,16 @@
+{
+ "cal_A_scores": 10850,
+ "static_margin_log": 0.024050354957580566,
+ "phi_min": 0.8573456011453194,
+ "H": 20,
+ "gamma": 0.005,
+ "eps": 0.05,
+ "references": {
+  "error": 0.2432621906912742,
+  "coverage": 0.07965756324759182,
+  "novelty": 0.03463920750655234,
+  "missing": 0.3192307692307692
+ },
+ "phi_auroc_coverage_failure": 0.8249895058221729,
+ "verification": "online and vectorized implementations agree on all splits and ablations"
+}

@@ -1,0 +1,121 @@
+search_strand,key_in_manuscript,record,doi_or_url,outcome,reason
+QoS control in SD-IoT,nguyen2022deepplace,DeepPlace: Deep reinforcement learning for adaptive flow rule placement in Software-Defined IoT Networks,10.1016/j.comcom.2021.10.006,included,
+QoS control in SD-IoT,liu2025clblp,CLB-LP: Controller Load Balancing Based on Load Prediction Using Deep Learning for Software-Defined IoT Networks,10.1109/TNSE.2024.3487355,included,
+QoS control in SD-IoT,dake2021marlsdniot,Multi-Agent Reinforcement Learning Framework in SDN-IoT for Transient Load Detection and Prevention,10.3390/technologies9030044,included,
+QoS control in SD-IoT,wu2021tccamaddpg,Joint Traffic Control and Multi-Channel Reassignment for Core Backbone Network in SDN-IoT: A Multi-Agent Deep Reinforcement Learning Approach,10.1109/TNSE.2020.3036456,included,
+QoS control in SD-IoT,baek2022sdnfogdrqn,Online Partial Offloading and Task Scheduling in SDN-Fog Networks With Deep Recurrent Reinforcement Learning,10.1109/JIOT.2021.3130474,included,
+QoS control in SD-IoT,sarkar2022drlsdfog,Deep Reinforcement Learning for Intelligent Service Provisioning in Software-Defined Industrial Fog Networks,10.1109/JIOT.2022.3142079,included,
+QoS control in SD-IoT,jarwan2023fdrliot,Edge-Based Federated Deep Reinforcement Learning for IoT Traffic Management,10.1109/JIOT.2022.3174469,included,
+QoS control in SD-IoT,liu2024ddrlargb,Deep Distributional Reinforcement Learning-Based Adaptive Routing With Guaranteed Delay Bounds,10.1109/TNET.2024.3425652,included,
+QoS control in SD-IoT,younus2022rlsdwsn,Improving the Software-Defined Wireless Sensor Networks Routing Performance Using Reinforcement Learning,10.1109/JIOT.2021.3102130,included,
+QoS control in SD-IoT,xie2022kolin,Virtualized Network Function Forwarding Graph Placing in SDN and NFV-Enabled IoT Networks: A Graph Neural Network Assisted Deep Reinforcement Learning Method,10.1109/TNSM.2021.3123460,included,
+QoS control in SD-IoT,tang2024dtvnf,DT-Assisted VNF Migration in SDN/NVF-Enabled IoT Networks via Multiagent Deep Reinforcement Learning,10.1109/JIOT.2024.3392574,included,
+QoS control in SD-IoT,rostami2024lbsdiot,An overview of QoS-aware load balancing techniques in SDN-based IoT networks,10.1186/s13677-024-00651-7,included,
+Network digital twins,almasan2022ndt,"Network Digital Twin: Context, Enabling Technologies, and Opportunities",10.1109/MCOM.001.2200012,included,
+Network digital twins,wu2021dtnsurvey,Digital Twin Networks: A Survey,10.1109/JIOT.2021.3079510,included,
+Network digital twins,ngo2023gnnndt,"Empowering Digital Twin for Future Networks with Graph Neural Networks: Overview, Enabling Technologies, Challenges, and Opportunities",10.3390/fi15120377,included,
+Network digital twins,ferriol2023routenetfermi,RouteNet-Fermi: Network Modeling With Graph Neural Networks,10.1109/TNET.2023.3269983,included,
+Network digital twins,ferriol2022twinnet,Building a Digital Twin for network optimization using Graph Neural Networks,10.1016/j.comnet.2022.109329,included,
+Network digital twins,erman2023generative,Generative Network Performance Prediction with Network Digital Twin,10.1109/MNET.002.2200515,included,
+Network digital twins,li2024dtlns,DT-LNS: Digital-Twin-Based Low-Risk Network Slicing Using Safe Reinforcement Learning,10.1109/JIOT.2024.3445177,included,
+Network digital twins,raj2023sdndtnkg,Building a Digital Twin Network of SDN Using Knowledge Graphs,10.1109/ACCESS.2023.3288813,included,
+Network digital twins,kherbache2021dtsdniiot,When Digital Twin Meets Network Softwarization in the Industrial IoT: Real-Time Requirements Case Study,10.3390/s21248194,included,
+Network digital twins,tang2024dtvnfpred,Digital-Twin-Assisted VNF Migration Through Resource Prediction in SDN/NVF-Enabled IoT Networks,10.1109/JIOT.2024.3435084,included,
+Network digital twins,tang2025dtdeterministic,Deterministic Delay of Digital-Twin-Assisted End-to-End Network Slicing in Industrial IoT via Multiagent Deep Reinforcement Learning,10.1109/JIOT.2024.3476112,included,
+Network digital twins,wieme2025monitoring,The Role of Monitoring Frequency in Optimizing Digital Twin Networks,10.1109/NOMS57970.2025.11073664,included,
+Network digital twins,itani2024agedt,Toward Industrial Metaverse: A High Fidelity Digital Twin for IIoT With Optimized Age-Accuracy Tradeoff,10.1109/ACCESS.2024.3434630,included,
+Network digital twins,zhang2025dtsync,Scheduling of Digital Twin Synchronization in Industrial Internet of Things: A Hybrid Inverse Reinforcement Learning Approach,10.1109/JIOT.2024.3486125,included,
+GNN network modeling,ferriolgalmes2022routenet_erlang,RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation,10.1109/INFOCOM48880.2022.9796944,included,
+GNN network modeling,afonso2022qtroutenet,QT-Routenet: Improved GNN generalization to larger 5G networks by fine-tuning predictions from queueing theory,10.52953/FBRB3688,included,
+GNN network modeling,aykurt2024dtgnnreal,Digital twin opportunities with leveraging graph neural networks on real network data,10.52953/ZOEM2142,included,
+GNN network modeling,zhang2023netctrt,Graph Neural Network-based Delay Prediction Model Enhanced by Network Calculus,10.23919/IFIPNetworking57963.2023.10186434,included,
+GNN network modeling,wang2022gnndtslicing,A Graph Neural Network-Based Digital Twin for Network Slicing Management,10.1109/TII.2020.3047843,included,
+GNN network modeling,almasan2022drlgnn,Deep reinforcement learning meets graph neural networks: Exploring a routing optimization use case,10.1016/j.comcom.2022.09.029,included,
+GNN network modeling,bernardez2023magnneto,MAGNNETO: A Graph Neural Network-Based Multi-Agent System for Traffic Engineering,10.1109/TCCN.2023.3235719,included,
+GNN network modeling,huang2022genericrouting,A generic intelligent routing method using deep reinforcement learning with graph neural networks,10.1049/cmu2.12487,included,
+GNN network modeling,wei2023grouting,G-Routing: Graph Neural Networks-Based Flexible Online Routing,10.1109/MNET.012.2300052,included,
+GNN network modeling,wang2023strgcn,Traffic Matrix Prediction in SDN based on Spatial-Temporal Residual Graph Convolutional Network,10.1109/CCDC58219.2023.10327651,included,
+GNN network modeling,suarezvarela2023gnncomm,"Graph Neural Networks for Communication Networks: Context, Use Cases and Opportunities",10.1109/MNET.123.2100773,included,
+GNN network modeling,jiang2022gnnsurvey,Graph-based deep learning for communication networks: A survey,10.1016/j.comcom.2021.12.015,included,
+Uncertainty and safe actuation,cohen2023calibrating,Calibrating AI Models for Wireless Communications via Conformal Prediction,10.1109/TMLCN.2023.3319282,included,
+Uncertainty and safe actuation,cohen2023urllc,Guaranteed Dynamic Scheduling of Ultra-Reliable Low-Latency Traffic via Conformal Prediction,10.1109/LSP.2023.3264939,included,
+Uncertainty and safe actuation,zhu2024wfcp,Federated Inference With Reliable Uncertainty Quantification Over Wireless Channels via Conformal Prediction,10.1109/TSP.2024.3358615,included,
+Uncertainty and safe actuation,mostafavi2023tail,Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities,10.1109/GLOBECOM54140.2023.10437281,included,
+Uncertainty and safe actuation,malekghaini2023drift,Deep learning for encrypted traffic classification in the face of data drift: An empirical study,10.1016/j.comnet.2023.109648,included,
+Uncertainty and safe actuation,eliyahu2021whirl,Verifying learning-augmented systems,10.1145/3452296.3472936,included,
+Uncertainty and safe actuation,liu2021onslicing,OnSlicing: Online End-to-End Network Slicing with Reinforcement Learning,10.1145/3485983.3494850,included,
+Uncertainty and safe actuation,liu2021clara,CLARA: A Constrained Reinforcement Learning Based Resource Allocation Framework for Network Slicing,10.1109/BigData52589.2021.9671840,included,
+Uncertainty and safe actuation,dinh2025safelb,Safe load balancing in software-defined-networking,10.1016/j.comcom.2024.107985,included,
+Uncertainty and safe actuation,nagib2024safe,Safe and Accelerated Deep Reinforcement Learning-Based O-RAN Slicing: A Hybrid Transfer Learning Approach,10.1109/JSAC.2023.3336191,included,
+Uncertainty and safe actuation,nagib2025safeslice,SafeSlice: Enabling SLA-Compliant O-RAN Slicing via Safe Deep Reinforcement Learning,10.1109/ICMLCN64995.2025.11140546,included,
+Uncertainty and safe actuation,huang2025crlo,Safety-Critical Offloading with Constrained Reinforcement Learning for Multi-access Edge Computing,10.1145/3715695,included,
+Uncertainty and safe actuation,balasingam2024zipper,Application-Level Service Assurance with 5G RAN Slicing,https://www.usenix.org/conference/nsdi24/presentation/balasingam,included,
+Uncertainty and safe actuation,gholami2023stochastic,Mobile Network Slicing under Demand Uncertainty: A Stochastic Programming Approach,10.1109/NetSoft57336.2023.10175453,included,
+Agentic network management,wang2025confucius,Intent-Driven Network Management with Multi-Agent LLMs: The Confucius Framework,10.1145/3718958.3750537,included,
+Agentic network management,wang2024netconfeval,NetConfEval: Can LLMs Facilitate Network Configuration? Proc,10.1145/3656296,included,
+Agentic network management,mondal2023verified,What do LLMs need to Synthesize Correct Router Configurations? In: Proc,10.1145/3626111.3628194,included,
+Agentic network management,mani2023netmgmt,Enhancing Network Management Using Code Generated by Large Language Models,10.1145/3626111.3628183,included,
+Agentic network management,tu2025intentllm,Intent-Based Network Configuration Using Large Language Models,10.1002/nem.2313,included,
+Agentic network management,song2025llmdt,Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations,10.1109/MCOM.001.2400342,included,
+Agentic network management,hossain2025netintent,NetIntent: Leveraging Large Language Models for End-to-End Intent-Based SDN Automation,10.1109/OJCOMS.2025.3642642,included,
+Agentic network management,wang2025bian,Towards LLM-Based Failure Localization in Production-Scale Networks,10.1145/3718958.3750505,included,
+Agentic network management,xiao2024madrlkdn,Scalable QoS-Aware Multipath Routing in Hybrid Knowledge-Defined Networking With Multiagent Deep Reinforcement Learning,10.1109/TMC.2024.3379191,included,
+Agentic network management,boussaoud2025marl,Adaptive Congestion Detection and Traffic Control in Software-Defined Networks via Data-Driven Multi-Agent Reinforcement Learning,10.3390/computers14060236,included,
+Agentic network management,coronado2022zsm,Zero Touch Management: A Survey of Network Automation Solutions for 5G and 6G Networks,10.1109/COMST.2022.3212586,included,
+Agentic network management,hong2025llmsurvey,A Comprehensive Survey on LLM-Based Network Management and Operations,10.1002/nem.70029,included,
+Agentic network management,huang2025llmnet,"Large Language Models for Networking: Applications, Enabling Techniques, and Challenges",10.1109/MNET.2024.3435752,included,
+Closest combined works,zalat2024ndt,A Practical Network Digital Twin for IGP Weight Optimization,10.23919/CNSM62983.2024.10814633,included,
+Closest combined works,ruah2023bayesian,"A Bayesian Framework for Digital Twin-Based Control, Monitoring, and Data Collection in Wireless Systems",10.1109/JSAC.2023.3310093,included,
+Closest combined works,yu2023dtselfhealing,Digital Twin Driven Service Self-Healing With Graph Neural Networks in 6G Edge Networks,10.1109/JSAC.2023.3310063,included,
+Closest combined works,guemespalau2022es,Accelerating Deep Reinforcement Learning for Digital Twin Network Optimization with Evolutionary Strategies,10.1109/NOMS54207.2022.9789945,included,
+Closest combined works,tang2023dtiiotns,Digital-Twin-Assisted Resource Allocation for Network Slicing in Industry 4.0 and Beyond Using Distributed Deep Reinforcement Learning,10.1109/JIOT.2023.3274163,included,
+Closest combined works,shinde2025nsv,Integrating Network State Verification with Knowledge Graph based Digital Twin for SDN,10.1109/NFV-SDN66355.2025.11349405,included,
+Closest combined works,abishek2025ndtgenai,End-to-end transport network digital twins with cloud-native SDN controllers and generative AI [Invited],10.1364/JOCN.550864,included,
+GNN network modeling,ferriol2023routenetfermi,RouteNet-Fermi: Network Modeling With Graph Neural Networks,10.1109/TNET.2023.3269983,removed: duplicate,duplicate of record in another strand
+GNN network modeling,ferriol2022twinnet,Building a Digital Twin for network optimization using Graph Neural Networks,10.1016/j.comnet.2022.109329,removed: duplicate,duplicate of record in another strand
+Network digital twins,wang2022gnndtslicing,A Graph Neural Network-Based Digital Twin for Network Slicing Management,10.1109/TII.2020.3047843,removed: duplicate,duplicate of record in another strand
+Agentic network management,bernardez2023magnneto,MAGNNETO: A Graph Neural Network-Based Multi-Agent System for Traffic Engineering,10.1109/TCCN.2023.3235719,removed: duplicate,duplicate of record in another strand
+Closest combined works,li2024dtlns,DT-LNS: Digital-Twin-Based Low-Risk Network Slicing Using Safe Reinforcement Learning,10.1109/JIOT.2024.3445177,removed: duplicate,duplicate of record in another strand
+Closest combined works,ferriol2022twinnet,Building a Digital Twin for network optimization using Graph Neural Networks,10.1016/j.comnet.2022.109329,removed: duplicate,duplicate of record in another strand
+Closest combined works,wang2022gnndtslicing,A Graph Neural Network-Based Digital Twin for Network Slicing Management,10.1109/TII.2020.3047843,removed: duplicate,duplicate of record in another strand
+Closest combined works,tang2025dtdeterministic,Deterministic Delay of Digital-Twin-Assisted End-to-End Network Slicing in Industrial IoT via Multiagent Deep Reinforcement Learning,10.1109/JIOT.2024.3476112,removed: duplicate,duplicate of record in another strand
+Closest combined works,kherbache2021dtsdniiot,When Digital Twin Meets Network Softwarization in the Industrial IoT: Real-Time Requirements Case Study,10.3390/s21248194,removed: duplicate,duplicate of record in another strand
+Closest combined works,almasan2022drlgnn,Deep reinforcement learning meets graph neural networks: Exploring a routing optimization use case,10.1016/j.comcom.2022.09.029,removed: duplicate,duplicate of record in another strand
+Closest combined works,,"Wieme et al., Internet of Things 25, 101023 (2024)",10.1016/j.iot.2023.101023,removed: duplicate,duplicate of record in another strand
+Network digital twins,,ITU-T Y.3090 Digital twin network - Requirements and architecture (2022),https://www.itu.int/rec/T-REC-Y.3090-202202-I,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Network digital twins,,IRTF NMRG draft-irtf-nmrg-network-digital-twin-arch,https://datatracker.ietf.org/doc/draft-irtf-nmrg-network-digital-twin-arch/,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Uncertainty and safe actuation,,MetaSTNet (conformal cellular-traffic forecasting) [arXiv only],,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Uncertainty and safe actuation,,CONTINA (conformal traffic forecasting) [arXiv only],,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Uncertainty and safe actuation,,Conformal edge runtime prediction [arXiv only],,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Agentic network management,,Synthesizing Network Digital Twins via multi-agent LLMs [arXiv only],,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Agentic network management,,GraphCue [arXiv only],,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Closest combined works,,Toward Trustworthy Digital Twins in AI Agent-based Wireless Network Optimization [arXiv only],,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Closest combined works,,OpenTwin [arXiv only],,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+Closest combined works,,Aether [arXiv only],,excluded at screening,"not a peer-reviewed study (preprint, standard or draft)"
+GNN network modeling,,"RouteNet-TGNN, J. Commun. 21(2) (2026)",,excluded at screening,version of record outside 2021-2025
+GNN network modeling,,"Rusek et al., RouteNet, IEEE JSAC 38(10) (2020)",10.1109/JSAC.2020.3000405,excluded at screening,version of record outside 2021-2025
+Agentic network management,,"LLM-Based AI Agent for VNF Deployment, J. Netw. Syst. Manage. (2026)",,excluded at screening,version of record outside 2021-2025
+QoS control in SD-IoT,,"Flow persona, Comput. Netw. 273 (2025)",10.1016/j.comnet.2025.111784,not retrieved,abstract or full text not accessible
+QoS control in SD-IoT,,"DQS, J. Parallel Distrib. Comput. 188 (2024)",10.1016/j.jpdc.2024.104851,not retrieved,abstract or full text not accessible
+QoS control in SD-IoT,,"MDQ, J. Netw. Comput. Appl. 235 (2025)",10.1016/j.jnca.2024.104082,not retrieved,abstract or full text not accessible
+QoS control in SD-IoT,,"LCA, Comput. Netw. (2025)",10.1016/j.comnet.2025.111371,not retrieved,abstract or full text not accessible
+QoS control in SD-IoT,,"Nazemi Absardi & Javidan, J. Supercomput. 79(17) (2023)",10.1007/s11227-023-05412-y,not retrieved,abstract or full text not accessible
+QoS control in SD-IoT,,"Kumar et al., SDWN-IoT TE survey, Comput. Sci. Rev. 49 (2023)",10.1016/j.cosrev.2023.100572,not retrieved,abstract or full text not accessible
+Network digital twins,,"Wieme et al., Internet of Things 25, 101023 (2024)",10.1016/j.iot.2023.101023,not retrieved,abstract or full text not accessible
+GNN network modeling,,"GraphNET, Comput. Commun. 178 (2021)",10.1016/j.comcom.2021.07.025,not retrieved,abstract or full text not accessible
+Agentic network management,,"LaMA-SON (Qayyum et al., IEEE Network 2025)",,excluded at eligibility,bibliographic metadata not verifiable
+GNN network modeling,,"He et al., causality-aware RL + GNN QoS routing in SDN, Front. Comput. Neurosci. (2024)",10.3389/fncom.2024.1393025,excluded at eligibility,bibliographic metadata not verifiable
+Uncertainty and safe actuation,,"Houidi et al., CCNC 2022",,excluded at eligibility,outside the scope of the review
+Network digital twins,,"Tang, F. et al., Survey on Digital Twin Edge Networks (DITEN) Toward 6G, IEEE OJ-COMS 3 (2022)",10.1109/OJCOMS.2022.3197811,excluded at eligibility,redundant with an included study or lower relevance
+Network digital twins,,"Vila et al., Network Digital Twin for the RAN in 5G and Beyond, Sensors 23(3) (2023)",10.3390/s23031197,excluded at eligibility,redundant with an included study or lower relevance
+Network digital twins,,"Chen et al., Digital Twin Model Selection for Feature Accuracy, IEEE IoT-J 11(7) (2024)",10.1109/JIOT.2023.3330411,excluded at eligibility,redundant with an included study or lower relevance
+Network digital twins,,"Bicocchi et al., Digital Twin End-to-End Trustworthiness, IEEE Internet Comput. 28(4) (2024)",10.1109/MIC.2024.3376439,excluded at eligibility,redundant with an included study or lower relevance
+Network digital twins,,"Zheng et al., Data Synchronization in Vehicular Digital Twin Network, IEEE TWC 22(11) (2023)",10.1109/TWC.2023.3254158,excluded at eligibility,redundant with an included study or lower relevance
+GNN network modeling,,"Zheng et al., Generalized Intelligent Routing Based on GNN, Electronics 11(18) (2022)",10.3390/electronics11182952,excluded at eligibility,redundant with an included study or lower relevance
+GNN network modeling,,"Dhamala et al., RouteNet with Attention Mechanism, Future Internet 16(4) (2024)",10.3390/fi16040116,excluded at eligibility,redundant with an included study or lower relevance
+GNN network modeling,,"Li et al., DI-GCN SDN traffic prediction, Int. J. Inf. Secur. Priv. 16(1) (2022)",10.4018/IJISP.309130,excluded at eligibility,redundant with an included study or lower relevance
+Agentic network management,,"Leivadeas & Falkner, Intent-Based Networking survey, IEEE COMST 25(1) (2023)",10.1109/COMST.2022.3215919,excluded at eligibility,redundant with an included study or lower relevance
+Agentic network management,,"Nguyen et al., NOMS 2024",10.1109/noms59830.2024.10575237,excluded at eligibility,redundant with an included study or lower relevance
+Closest combined works,,"Tao, Xu, You, IEEE Trans. Commun. 73(4) (2025)",10.1109/TCOMM.2024.3476430,excluded at eligibility,redundant with an included study or lower relevance
+Closest combined works,,"Liu et al., IEEE TWC 23(12) (2024)",10.1109/TWC.2024.3464639,excluded at eligibility,redundant with an included study or lower relevance
+Closest combined works,,"Guo et al., IEEE Trans. Cloud Comput. 11(4) (2023)",10.1109/TCC.2023.3294506,excluded at eligibility,redundant with an included study or lower relevance

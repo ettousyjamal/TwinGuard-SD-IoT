@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "TwinGuard-SD-IoT: code, notebooks, and results"
+type: software
+license: MIT
+authors:
+  - family-names: Et-Tousy
+    given-names: Jamal
+    affiliation: "LAPSSII Laboratory, Higher School of Technology (EST), Cadi Ayyad University, Safi, Morocco"
+preferred-citation:
+  type: article
+  title: "TwinGuard-SD-IoT: A Fidelity-Aware GNN Digital Twin and Agentic AI Framework for Proactive QoS Assurance in Software-Defined IoT Networks"
+  authors:
+    - family-names: Et-Tousy
+      given-names: Jamal
+      affiliation: "LAPSSII Laboratory, Higher School of Technology (EST), Cadi Ayyad University, Safi, Morocco"
+  year: 2026
+  notes: "Manuscript under review."

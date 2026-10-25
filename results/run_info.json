@@ -1,0 +1,49 @@
+{
+ "environment": "Kaggle",
+ "device": "cuda",
+ "gpu": "Tesla T4",
+ "torch": "2.11.0+cu128",
+ "numpy": "2.1.3",
+ "pandas": "2.3.3",
+ "seeds": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "best_hp": {
+  "LinkGRU": {
+   "hidden": 32,
+   "layers": 2,
+   "heads": 2,
+   "gru": 64,
+   "gru_layers": 1,
+   "dropout": 0.0,
+   "lr": 0.001,
+   "batch": 64,
+   "wd": 1e-05
+  },
+  "GNNTwin": {
+   "hidden": 64,
+   "layers": 3,
+   "heads": 2,
+   "gru": 64,
+   "gru_layers": 1,
+   "dropout": 0.1,
+   "lr": 0.0003,
+   "batch": 128,
+   "wd": 1e-05
+  }
+ },
+ "fixed": {
+  "max_epochs": 150,
+  "patience": 15,
+  "lr_patience": 5,
+  "lr_factor": 0.5,
+  "clip": 1.0
+ },
+ "n_trials": 16,
+ "n_boot": 300,
+ "smoke": false
+}

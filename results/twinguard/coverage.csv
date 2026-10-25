@@ -1,0 +1,13 @@
+split,bound,coverage,median_rtt_bound_ms,share_infinite
+test_D1,B4 ensemble quantile (uncalibrated),0.9459640397857689,2.5252836101795544,0.0
+test_D1,A2 static split conformal,0.9525631216526397,2.6110957017181833,0.0
+test_D1,B5 adaptive conformal (TwinGuard),0.9500286916602907,2.5808316179590935,0.0
+D1_quiet,B4 ensemble quantile (uncalibrated),0.9490291977254648,2.5990289981414487,0.0
+D1_quiet,A2 static split conformal,0.9565716979464365,2.686636192339071,0.0
+D1_quiet,B5 adaptive conformal (TwinGuard),0.9517987095253528,2.640384193929466,0.0
+D3,B4 ensemble quantile (uncalibrated),0.8671361394303424,2.9242980716773355,0.0
+D3,A2 static split conformal,0.8777069477366349,3.0198229322528762,0.0
+D3,B5 adaptive conformal (TwinGuard),0.9472840386931474,4.152703862867698,0.004786142976525108
+D2,B4 ensemble quantile (uncalibrated),0.6269385490359273,3.4720709905713267,0.0
+D2,A2 static split conformal,0.6315161603551117,3.5809296832739568,0.0
+D2,B5 adaptive conformal (TwinGuard),0.9483423498404772,21.637942189843503,0.0

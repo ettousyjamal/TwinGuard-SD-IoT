@@ -1,0 +1,7 @@
+{
+ "topology": "nsfnet",
+ "load_scale": 2.22607421875,
+ "routers": 14,
+ "links": 21,
+ "static_violation_rate": 0.031075920909643173
+}

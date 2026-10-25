@@ -1,0 +1,7 @@
+{
+ "topology": "two_tier",
+ "load_scale": 3.07373046875,
+ "routers": 12,
+ "links": 22,
+ "static_violation_rate": 0.031199617311358452
+}

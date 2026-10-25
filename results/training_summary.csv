@@ -1,0 +1,11 @@
+model,seed,params,best_epoch,epochs_run,best_val_loss,best_val_auroc,train_seconds,device
+LinkGRU,0,34038,13,28,0.0983,0.9281,15.6,cuda
+LinkGRU,1,34038,14,29,0.0982,0.931,16.1,cuda
+LinkGRU,2,34038,19,34,0.098,0.9299,18.5,cuda
+LinkGRU,3,34038,16,31,0.0985,0.9285,16.8,cuda
+LinkGRU,4,34038,12,27,0.0989,0.9288,14.7,cuda
+GNNTwin,0,78454,33,48,0.0926,0.9402,62.2,cuda
+GNNTwin,1,78454,32,47,0.0921,0.9426,60.7,cuda
+GNNTwin,2,78454,38,53,0.0919,0.9396,68.8,cuda
+GNNTwin,3,78454,33,48,0.0936,0.9387,62.4,cuda
+GNNTwin,4,78454,34,49,0.0926,0.9416,63.6,cuda

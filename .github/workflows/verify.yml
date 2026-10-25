@@ -1,0 +1,16 @@
+name: verify
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install (CPU)
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install "numpy>=2.1" "pandas>=2.3" "scipy>=1.13" "networkx>=3.0" "matplotlib>=3.9"
+      - name: Verify checkpoints, gate, simulator determinism, and a closed-loop reference run
+        run: python code/verify.py

@@ -1,0 +1,25 @@
+twin,regime,calibration,selection_correction,selected_actions,coverage_selected,violation_after_selected
+GNN twin,nominal,exploration,False,801,0.9535521803037726,0.0024968789013732834
+GNN twin,nominal,exploration,True,783,0.9985967725769269,0.002554278416347382
+GNN twin,nominal,planner,False,801,0.9643312101910828,0.0024968789013732834
+GNN twin,nominal,planner,True,783,0.9984965420467075,0.002554278416347382
+GNN twin,nominal,"planner, per action type",False,801,0.9628613424791769,0.0024968789013732834
+GNN twin,nominal,"planner, per action type",True,791,0.9974201230402858,0.0025284450063211127
+GNN twin,shift,exploration,False,696,0.9154542330163822,0.02586206896551724
+GNN twin,shift,exploration,True,662,0.9949391492950957,0.021148036253776436
+GNN twin,shift,planner,False,696,0.9340130599152251,0.02586206896551724
+GNN twin,shift,planner,True,664,0.9947147147147147,0.022590361445783132
+GNN twin,shift,"planner, per action type",False,696,0.9312636040783595,0.02586206896551724
+GNN twin,shift,"planner, per action type",True,665,0.9930422264875239,0.019548872180451128
+Per-link twin,nominal,exploration,False,876,0.932103188821211,0.0045662100456621
+Per-link twin,nominal,exploration,True,847,0.9985175576762717,0.0023612750885478157
+Per-link twin,nominal,planner,False,875,0.9455703012912482,0.004571428571428572
+Per-link twin,nominal,planner,True,853,0.9970563885567105,0.0035169988276670576
+Per-link twin,nominal,"planner, per action type",False,875,0.9486190817790531,0.004571428571428572
+Per-link twin,nominal,"planner, per action type",True,857,0.9968873020232537,0.003500583430571762
+Per-link twin,shift,exploration,False,767,0.9122133444017848,0.02346805736636245
+Per-link twin,shift,exploration,True,719,0.9950182663566921,0.02086230876216968
+Per-link twin,shift,planner,False,767,0.9271557538653108,0.02346805736636245
+Per-link twin,shift,planner,True,736,0.9932958477508651,0.020380434782608696
+Per-link twin,shift,"planner, per action type",False,767,0.9309951229635779,0.02346805736636245
+Per-link twin,shift,"planner, per action type",True,740,0.9918226812997633,0.02027027027027027
